@@ -195,3 +195,10 @@ Le déploiement sur Sepolia était la partie la plus satisfaisante du TD. Voir s
 | Sepolia (public) | `0x26780a2f16f88D80E9b6973C3472a6f312a5F035` |
 
 **Etherscan Sepolia :** https://sepolia.etherscan.io/address/0x26780a2f16f88D80E9b6973C3472a6f312a5F035
+
+
+## Liens
+
+- **dApp déployée :** https://tp-3web3.vercel.app
+- **Contrat Etherscan :** https://sepolia.etherscan.io/address/0x26780a2f16f88D80E9b6973C3472a6f312a5F035
+- **GitHub :** https://github.com/nj2aa/tp-3web3
