@@ -1,5 +1,5 @@
 # TD Jour 3 — Smart Contract & Déploiement Sepolia
-**3WEB3 · Bloc 4 · B3**  
+**3WEB3 · Najwa FARQANE · B3**  
 **Projet : Loyalty Program — Programme de fidélité décentralisé**
 
 ---
